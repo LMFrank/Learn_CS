@@ -49,6 +49,10 @@
 
 * **书籍**
   [《MySQL必知必会》](https://book.douban.com/subject/3354490/)
+  
+* **视频**
+  
+  [CMU 15-445/645](https://www.bilibili.com/video/BV1f7411z7dw)
 
 ### Python
 
@@ -69,5 +73,16 @@
 
   [《Go语言实战》]( https://book.douban.com/subject/27015617/ )：以一个项目引入，学完后会感到很通畅
 
+### 分布式
+
+- **视频**
+
+  [MIT 6.824 Distributed Systems](https://www.bilibili.com/video/BV1x7411M7Sf)：鼎鼎有名的MIT分布式课程
+
+- **其他资料**
+
+  [7天用Go从零实现分布式缓存GeeCache](https://geektutu.com/post/geecache.html)
+
   
+
 
