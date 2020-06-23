@@ -73,6 +73,12 @@
 
   [《Go语言实战》]( https://book.douban.com/subject/27015617/ )：以一个项目引入，学完后会感到很通畅
 
+### 中间件
+
+- 书籍
+
+  [Redis实战](https://pan.baidu.com/s/13Y-Uk2HmV1Y5TLec4J20aQ)密码:ro48
+
 ### 分布式
 
 - **视频**
@@ -84,7 +90,3 @@
   [7天用Go从零实现分布式缓存GeeCache](https://geektutu.com/post/geecache.html)
 
   [raft可视化](http://thesecretlivesofdata.com/raft/)
-  
-  
-
-
