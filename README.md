@@ -90,3 +90,8 @@
   [7天用Go从零实现分布式缓存GeeCache](https://geektutu.com/post/geecache.html)
 
   [raft可视化](http://thesecretlivesofdata.com/raft/)
+
+### 我自己的blog：
+
+- [博客园](https://www.cnblogs.com/LMFrank/)
+- [CSDN](https://blog.csdn.net/LMFranK)
