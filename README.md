@@ -78,6 +78,8 @@
 - 书籍
 
   [Redis实战](https://pan.baidu.com/s/13Y-Uk2HmV1Y5TLec4J20aQ)密码:ro48
+  
+  [Redis设计与实现](https://book.douban.com/subject/25900156/)
 
 ### 分布式
 
