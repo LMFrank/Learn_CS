@@ -50,6 +50,8 @@
 * **书籍**
   [《MySQL必知必会》](https://book.douban.com/subject/3354490/)
   
+  [《高性能MySQL》](https://book.douban.com/subject/4241826/)
+  
 * **视频**
   
   [CMU 15-445/645](https://www.bilibili.com/video/BV1f7411z7dw)
@@ -77,9 +79,9 @@
 
 - 书籍
 
-  [Redis实战](https://pan.baidu.com/s/13Y-Uk2HmV1Y5TLec4J20aQ)密码:ro48
+  [《Redis实战》](https://pan.baidu.com/s/13Y-Uk2HmV1Y5TLec4J20aQ)密码:ro48
   
-  [Redis设计与实现](https://book.douban.com/subject/25900156/)
+  [《Redis设计与实现》](https://book.douban.com/subject/25900156/)
 
 ### 分布式
 
